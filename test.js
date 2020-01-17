@@ -39,3 +39,6 @@ function callName(req, res) {
 } 
 
 // save code as start.js 
+
+//the above code calls test.py and you can see the output by passing the arguments through  localhost:3000/name?firstname="rajesh"&lastname="Enter nalamati"
+//once the arguments are passed output will be displayed on web browser
